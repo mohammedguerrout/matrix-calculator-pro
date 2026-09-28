@@ -8,6 +8,21 @@ Une application de bureau complète en **Python** (avec **CustomTkinter**) perme
 
 ---
 
+## 📑 Sommaire
+
+- [📖 Description](#-description)
+- [✨ Fonctionnalités](#-fonctionnalités)
+- [⌨️ Raccourcis clavier](#️-raccourcis-clavier)
+- [🛠️ Technologies utilisées](#️-technologies-utilisées)
+- [🚀 Installation](#-installation)
+- [📂 Structure du projet](#-structure-du-projet)
+- [🖼️ Aperçu](#️-aperçu)
+- [🤝 Contribution](#-contribution)
+- [📜 Licence](#-licence)
+- [👤 Auteur](#-auteur)
+
+---
+
 ## 📖 Description
 
 **Calculatrice Matricielle Pro** est une application graphique développée en Python permettant de manipuler des matrices carrées (de 2×2 à 8×8) et d'effectuer dessus des opérations mathématiques avancées, avec un historique complet, une sauvegarde/chargement au format JSON, et un export CSV des résultats.
@@ -76,7 +91,7 @@ Une application de bureau complète en **Python** (avec **CustomTkinter**) perme
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/VOTRE_NOM_UTILISATEUR/matrix-calculator-pro.git
+   git clone https://github.com/mohammedguerrout/matrix-calculator-pro.git
    cd matrix-calculator-pro
    ```
 
@@ -89,7 +104,7 @@ Une application de bureau complète en **Python** (avec **CustomTkinter**) perme
 
 3. **Installer les dépendances**
    ```bash
-   pip install customtkinter
+   pip install -r requirements.txt
    ```
 
 4. **Lancer l'application**
@@ -104,10 +119,12 @@ Une application de bureau complète en **Python** (avec **CustomTkinter**) perme
 ```
 matrix-calculator-pro/
 │
-├── main.py          # Fichier principal de l'application
-├── README.md         # Documentation du projet
-├── LICENSE            # Licence MIT
-└── .gitignore         # Fichiers ignorés par Git
+├── main.py              # Fichier principal de l'application
+├── requirements.txt      # Dépendances du projet
+├── screenshots/           # Captures d'écran de l'application
+├── README.md              # Documentation du projet
+├── LICENSE                 # Licence MIT
+└── .gitignore               # Fichiers ignorés par Git
 ```
 
 ---
@@ -123,6 +140,7 @@ matrix-calculator-pro/
 | ![Mode Sombre](screenshots/dark-mode.png) | ![Mode Clair](screenshots/light-mode.png) |
 
 </div>
+
 ---
 
 ## 🤝 Contribution
@@ -147,3 +165,10 @@ Ce projet est distribué sous licence **MIT**. Voir le fichier [LICENSE](LICENSE
 
 **Mohammed Guerrout**
 
+- GitHub : [@mohammedguerrout](https://github.com/mohammedguerrout)
+
+<div align="center">
+
+⭐ **Si ce projet vous plaît, n'hésitez pas à lui laisser une étoile !** ⭐
+
+</div>

@@ -114,8 +114,15 @@ matrix-calculator-pro/
 
 ## 🖼️ Aperçu
 
-> *(Ajoutez ici une ou plusieurs captures d'écran de l'application une fois publiée)*
+![Aperçu de l'application](screenshots/preview.png)
 
+<div align="center">
+
+| Mode Sombre | Mode Clair |
+|:---:|:---:|
+| ![Mode Sombre](screenshots/dark-mode.png) | ![Mode Clair](screenshots/light-mode.png) |
+
+</div>
 ---
 
 ## 🤝 Contribution
